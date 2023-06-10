@@ -1,4 +1,7 @@
 .root {
     box-sizing: border-box;
     font-family: 'Inter', Arial, sans-serif;
+    background-color: #2A2C2F;
+    width: 100vw;
+    color: white;
 }
