@@ -34,7 +34,7 @@
     opacity: 0.8;
 }
 
-@media (max-width: 1179px) {
+@media (max-width: 1279px) {
     .cover__background {
         min-height: 640px;
         padding: 195px 232px;

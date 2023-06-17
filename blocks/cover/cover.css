@@ -1,4 +1,6 @@
 .cover {
+    display: flex;
+    justify-content: center;
     padding: 0 48px;
     margin-bottom: 92px;
 }
@@ -6,5 +8,17 @@
 @media (max-width: 1279px) {
     .cover {
         padding: 0;
+    }
+}
+
+@media (max-width: 1023px) {
+    .cover {
+        margin-bottom: 88px;
+    }
+}
+
+@media (max-width: 767px) {
+    .cover {
+        margin-bottom: 64px;
     }
 }

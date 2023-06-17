@@ -1,7 +1,6 @@
 .header__logo {
     max-width: 176px;
     object-fit: cover;
-    margin-right: auto;
 }
 
 @media (max-width: 767px) {

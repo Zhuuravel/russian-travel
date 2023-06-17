@@ -1,7 +1,6 @@
 .footer {
     margin: 0 auto;
     padding: 0 48px;
-    min-height: 18px;
     display: flex;
     justify-content: space-between;
     font-weight: 400;
@@ -16,8 +15,6 @@
 @media (max-width: 767px) {
     .footer {
         flex-direction: column;
-        min-height: 310px;
-        max-width: 186px;
         margin-left: 16px;
         padding: 0;
     }
