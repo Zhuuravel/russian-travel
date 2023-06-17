@@ -1,23 +1,15 @@
-# Проект: Путешествие по России
+# Russian-travel
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+## Features
 
-**Интро**
+- This project is a one-page site where you can learn a lot about traveling in Russia;
+- You can follow the links and get acquainted with the information you are interested in;
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+## Technologies
 
-**Figma**
+- This site uses the technology of both rubber and adaptive layout;
+- The markup is implemented, among other things, using grid- and flexbox layoyt;
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+## GitHub Pages
 
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+https://zhuuravel.github.io/russian-travel/index.html
