@@ -1,6 +1,7 @@
 .lead {
     padding: 0 148px;
-    margin: 0 0 92px;
+    max-width: 984px;
+    margin: 0 auto 92px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -10,12 +11,14 @@
 
 @media (max-width: 1279px) {
     .lead {
+        max-width: 928px;
         padding: 0 48px;
     }
 }
 
 @media (max-width: 1023px) {
     .lead {
+        width: 100%;
         margin: 0 0 88px;
         padding: 0;
     }
@@ -23,6 +26,6 @@
 
 @media (max-width: 767px) {
     .lead {
-        margin: 0 0 64px;
+        margin-bottom: 64px;
     }
 }

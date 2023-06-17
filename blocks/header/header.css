@@ -1,5 +1,7 @@
 .header {
-    margin: 0 48px 56px;
+    max-width: 1184px;
+    padding: 0 48px;
+    margin: 0 auto 56px;
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
@@ -7,18 +9,21 @@
 
 @media (max-width: 1279px) {
     .header {
-        margin: 0 48px 48px;
+        max-width: 928px;
+        margin-bottom: 48px;
     }
 }
 
 @media (max-width: 1023px) {
     .header {
-        margin: 0 24px 48px;
+        max-width: 720px;
+        padding: 0 24px;
     }
 }
 
 @media (max-width: 767px) {
     .header {
-        margin: 0 16px 48px;
+        max-width: 288px;
+        padding: 0 16px;
     }
 }
