@@ -33,7 +33,7 @@
 @media (max-width: 767px) {
     .photo-grid {
         max-width: 288px;
-        padding: 0 16px ;
+        padding: 0 16px;
         margin-bottom: 64px;
         gap: 12px;
         grid-template-columns: 1fr;
