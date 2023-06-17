@@ -1,0 +1,10 @@
+.cover {
+    padding: 0 48px;
+    margin-bottom: 92px;
+}
+
+@media (max-width: 1279px) {
+    .cover {
+        padding: 0;
+    }
+}

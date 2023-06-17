@@ -1,0 +1,29 @@
+.intro {
+    padding-left: 148px;
+    margin: 0 0 92px;
+    max-width: 690px;
+    display: flex;
+    flex-direction: column;
+}
+
+@media (max-width: 1279px) {
+    .intro {
+        padding-left: 48px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .intro {
+        padding: 24px;
+        max-width: 720px;
+        margin: 0 auto 88px;
+    }
+}
+
+@media (max-width: 767px) {
+    .intro {
+        padding: 16px;
+        max-width: 288px;
+        margin: 0 auto 64px;
+    }
+}

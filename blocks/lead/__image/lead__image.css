@@ -1,0 +1,23 @@
+.lead__image {
+    max-width: 100%;
+    min-height: 615px;
+    margin-bottom: 8px;
+}
+
+@media (max-width: 1279px) {
+    .lead__image {
+        min-height: 580px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .lead__image {
+        min-height: 480px;
+    }
+}
+
+@media (max-width: 767px) {
+    .lead__image {
+        min-height: 200px;
+    }
+}
