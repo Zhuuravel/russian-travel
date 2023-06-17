@@ -8,6 +8,6 @@
 
 @media (max-width: 767px) {
     .place__website {
-        padding: 16px;
+        padding: 0 16px;
     }
 }
